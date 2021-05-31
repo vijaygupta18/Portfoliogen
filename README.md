@@ -2,9 +2,23 @@
 
 A web app to auto Build a portfolio
 
+### Tech Stack
+
+- Nodejs
+
+- CSS
+
+- Javascript
+
+- Ejs
+
+- Express JS
+
+
+
 [Visit Here](https://portfoliogen.herokuapp.com/)
 
-- Enter the complete details of your portfolio.
+- Enter the complete details of your portfolio you want.
 
 - After Submitting you will get your desired portfolio.
 
