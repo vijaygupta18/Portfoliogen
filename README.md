@@ -16,6 +16,7 @@ A web app to auto Build a portfolio
 
 🙂
 
+![gif](1.gif)
 😄
 ```diff
 Adding more Features to portfolio soon.Stay Tuned!!
