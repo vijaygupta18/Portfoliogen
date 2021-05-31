@@ -36,6 +36,10 @@ app.get("/favicon.ico", (req, res) => {
       res.render("home");
    
     });
+app.post("/favicon.ico", (req, res) => {
+      res.render("home");
+   
+    });
 
 
 
